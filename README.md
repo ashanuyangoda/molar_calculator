@@ -12,12 +12,12 @@ Calculating chemical compunds in a solution.
         solute_mass(36.5, 2, 0.1);
 
 finding required solute mass to prepare a solution
-solute_mass(molar_mass, required_molarity, solution_volume);
+    solute_mass(molar_mass, required_molarity, solution_volume);
 Where;  
-molar_mass in g/mol
-required_molarity in M or mol/dm3 or mol/l
-solution_volume in litre or dm3
-returns solute_mass in grams (g)
+    molar_mass in g/mol
+    required_molarity in M or mol/dm3 or mol/l
+    solution_volume in litre or dm3
+    returns solute_mass in grams (g)
 
 ## Example 2:
         A solution of silver nitrate (AgNO3), 
