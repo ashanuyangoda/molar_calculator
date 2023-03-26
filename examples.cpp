@@ -6,6 +6,10 @@ int main()
 {
     elements el;
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> f61aee7 (few changes)
     /* 
     Example 1:
         A bottle of dilute hydrochloric acid is 2M.

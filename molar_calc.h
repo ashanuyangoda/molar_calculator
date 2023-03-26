@@ -2,6 +2,11 @@
 using namespace std;
 
 
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> f61aee7 (few changes)
 enum element_symbols{H,                                                                 He, 
                      Li, Be,                                        B,  C,  N,  O,  F,  Ne, 
                      Na, Mg,                                        Al, Si, P,  S,  Cl, Ar, 
