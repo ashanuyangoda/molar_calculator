@@ -49,7 +49,7 @@ To find molarity or concentration of a solution use the following method:
 # Molar mass related calculations.
 First you should add the following line to the code.
    
-   elements el;
+    elements el;
 
  ## Molar mass of Na2SO4 (Sodium Sulphate) compound
     float compound2 = el.u[Na]*2 + el.u[S] + el.u[O]*4;
