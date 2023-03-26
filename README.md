@@ -12,7 +12,7 @@ Calculating chemical compunds in a solution.
         solute_mass(36.5, 2, 0.1);
 
 finding required solute mass to prepare a solution
-   # solute_mass(molar_mass, required_molarity, solution_volume);
+   ### solute_mass(molar_mass, required_molarity, solution_volume);
     Where;  
     molar_mass in g/mol
     required_molarity in M or mol/dm3 or mol/l
