@@ -2,22 +2,22 @@
 Calculating chemical compunds in a solution.
 
 ## Example 1:
-    ###    A bottle of dilute hydrochloric acid is 2M.
+        A bottle of dilute hydrochloric acid is 2M.
         What mass of HCL would be disolved in 100cm3 of this acid?
         
-        36.5g/mol
-        2M (2 mol/dm3 or 2mol/l)
-        100cm3 = 100ml = 0.1 litre or 0.1 dm3
+36.5g/mol
+2M (2 mol/dm3 or 2mol/l)
+100cm3 = 100ml = 0.1 litre or 0.1 dm3
 
         solute_mass(36.5, 2, 0.1);
 
-    //finding required solute mass to prepare a solution//
-    solute_mass(molar_mass, required_molarity, solution_volume);
-        Where;  
-                molar_mass in g/mol
-                required_molarity in M or mol/dm3 or mol/l
-                solution_volume in litre or dm3
-                returns solute_mass in grams (g)
+finding required solute mass to prepare a solution
+solute_mass(molar_mass, required_molarity, solution_volume);
+Where;  
+molar_mass in g/mol
+required_molarity in M or mol/dm3 or mol/l
+solution_volume in litre or dm3
+returns solute_mass in grams (g)
 
 Example 2:
         A solution of silver nitrate (AgNO3), 
