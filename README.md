@@ -43,7 +43,7 @@ To find molarity or concentration of a solution use the following method:
    
    Where;
         
-   ## molar_mass in g/mol
+   molar_mass in g/mol
         
    solute_mass in grams (g)
                 
