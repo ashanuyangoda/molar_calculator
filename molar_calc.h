@@ -1,6 +1,7 @@
 #include<iostream>
 using namespace std;
 
+
 enum element_symbols{H,                                                                 He, 
                      Li, Be,                                        B,  C,  N,  O,  F,  Ne, 
                      Na, Mg,                                        Al, Si, P,  S,  Cl, Ar, 

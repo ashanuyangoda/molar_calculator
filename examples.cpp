@@ -5,7 +5,7 @@ using namespace std;
 int main()
 {
     elements el;
-    
+
     /* 
     Example 1:
         A bottle of dilute hydrochloric acid is 2M.
