@@ -6,7 +6,9 @@ Calculating chemical compunds in a solution.
    What mass of HCL would be disolved in 100cm3 of this acid?
         
 36.5g/mol
+
 2M (2 mol/dm3 or 2mol/l)
+
 100cm3 = 100ml = 0.1 litre or 0.1 dm3
 
         solute_mass(36.5, 2, 0.1);
