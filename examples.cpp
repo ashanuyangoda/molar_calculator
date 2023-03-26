@@ -4,12 +4,7 @@ using namespace std;
 
 int main()
 {
-    elements el;
-
-<<<<<<< HEAD
-=======
-
->>>>>>> f61aee7 (few changes)
+    elements el; //Testing change
     /* 
     Example 1:
         A bottle of dilute hydrochloric acid is 2M.
