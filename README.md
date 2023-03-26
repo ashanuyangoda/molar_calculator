@@ -44,3 +44,22 @@ To find molarity or concentration of a solution use the following method:
    * solute_mass in grams (g)           
    * solution_volume in litre or dm3             
    * returns molarity in M or mol/dm3 or mol/l
+
+
+# Molar mass related calculations.
+
+ ## Molar mass of Na2SO4 (Sodium Sulphate) compound
+    float compound2 = el.u[Na]*2 + el.u[S] + el.u[O]*4;
+    cout<<compound2<<" g/mol"<<endl;
+
+ ## Molar mass of (NH4)2 SO4 (Amonium Sulphate) compound
+    float compound4 = (el.u[N] + el.u[H]*4)*2 + el.u[S] + el.u[O]*4;
+    cout<<compound4<<" g/mol"<<endl;
+
+ ## For Sodium Chloride
+    float mass = el.u[Na] + el.u[Cl];
+    cout<<"Molar mass of Sodium Cloride: "<<mass<<endl;
+    cout<<"Atomic mass of Na: "<<el.Z[Na]<<endl;
+    cout<<"Atomic mass of Cl: "<<el.Z[Cl]<<endl;
+    cout<<"Name of Na: "<<el.name[Na]<<endl;
+    cout<<"Name of Cl: "<<el.name[Cl]<<endl;
