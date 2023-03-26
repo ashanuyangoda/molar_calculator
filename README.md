@@ -18,13 +18,10 @@ To find required solute mass to prepare a solution use the following method:
    
    Where;  
    
-   molar_mass in g/mol
-   
-   required_molarity in M or mol/dm3 or mol/l
-   
-   solution_volume in litre or dm3
-   
-   returns solute_mass in grams (g)
+   * molar_mass in g/mol
+   * required_molarity in M or mol/dm3 or mol/l
+   * solution_volume in litre or dm3
+   * returns solute_mass in grams (g)
 
 ## Example 2:
    A solution of silver nitrate (AgNO3), 
