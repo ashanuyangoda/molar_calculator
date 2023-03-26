@@ -1,7 +1,7 @@
 # molar_calculator
 Calculating chemical compunds in a solution.
 
-Example 1:
+## Example 1:
         A bottle of dilute hydrochloric acid is 2M.
         What mass of HCL would be disolved in 100cm3 of this acid?
         
