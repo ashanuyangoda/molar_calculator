@@ -41,9 +41,9 @@ To find required solute mass to prepare a solution use the following method:
 To find molarity or concentration of a solution use the following method:
    ### molarity(molar_mass, solute_mass, solution_volume)
    
-Where;
+   Where;
         
-   molar_mass in g/mol
+   ## molar_mass in g/mol
         
    solute_mass in grams (g)
                 
