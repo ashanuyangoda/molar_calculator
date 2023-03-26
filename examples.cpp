@@ -4,7 +4,7 @@ using namespace std;
 
 int main()
 {
-    elements el; //Testing change
+    elements el;
     /* 
     Example 1:
         A bottle of dilute hydrochloric acid is 2M.
