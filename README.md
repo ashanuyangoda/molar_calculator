@@ -54,11 +54,11 @@ To access all elements first you need add the following line to the code.
     
 Then you can access the atomic mass as 'u', atomic number as 'Z' and name of the element as 'name'.
 
- ## Molar mass of Na2SO4 (Sodium Sulphate) compound
+ ## Molar mass of Na<sub>2</sub>SO<sub>4</sub> (Sodium Sulphate) compound
     float compound2 = el.u[Na]*2 + el.u[S] + el.u[O]*4;
     cout<<compound2<<" g/mol"<<endl;
 
- ## Molar mass of (NH4)2 SO4 (Amonium Sulphate) compound
+ ## Molar mass of (NH<sub>4</sub>)<sub>2</sub> SO<sub>4</sub> (Amonium Sulphate) compound
     float compound4 = (el.u[N] + el.u[H]*4)*2 + el.u[S] + el.u[O]*4;
     cout<<compound4<<" g/mol"<<endl;
 
