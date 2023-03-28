@@ -47,9 +47,12 @@ To find molarity or concentration of a solution use the following method:
 
 
 # Molar mass related calculations.
-First you should add the following line to the code.
+You can access the database of Periodic Table of Elements in this library. 
+To access all elements first you need add the following line to the code.
    
     elements el;
+    
+Then you can access the atomic mass as 'u', atomic number as 'Z' and name of the element as 'name'.
 
  ## Molar mass of Na2SO4 (Sodium Sulphate) compound
     float compound2 = el.u[Na]*2 + el.u[S] + el.u[O]*4;
